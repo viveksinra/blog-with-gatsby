@@ -15,6 +15,12 @@
   },
   "dependencies": {
     "gatsby": "^2.23.12",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-mdx": "^1.2.30",
+    "gatsby-plugin-sharp": "^2.6.23",
+    "gatsby-remark-images": "^3.3.22",
+    "gatsby-source-filesystem": "^2.3.23",
+    "gatsby-transformer-sharp": "^2.5.11",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
@@ -23,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/vivekkrvks/blog-with-gatsby"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
